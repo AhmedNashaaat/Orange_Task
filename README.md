@@ -1,4 +1,4 @@
-🔺 Triangle Test Automation
+## 🔺 Triangle Test Automation
 
 This project automates the testing of a Triangle Classification Application, where a user enters the three sides of a triangle, and the system determines whether the triangle is:
 
